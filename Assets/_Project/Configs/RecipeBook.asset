@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfd12ea68e9cd44284abc81a9e261aa, type: 3}
+  m_Name: RecipeBook
+  m_EditorClassIdentifier: Assembly-CSharp::OceanFactory.Data.RecipeBookSO
+  recipes:
+  - {fileID: 11400000, guid: c279d9d2bd11d2546bf900d14a3760e8, type: 2}
+  - {fileID: 11400000, guid: df30bef78d5137546b1685d59c2ace22, type: 2}
+  - {fileID: 11400000, guid: 6a43cdd6e1415f34c9524d662d200b0d, type: 2}
+  - {fileID: 11400000, guid: 8c0b066148f71364a8a0dc72974fd1d3, type: 2}
+  - {fileID: 11400000, guid: 356d75ef89acc734d83f554fddb59718, type: 2}
+  - {fileID: 11400000, guid: 77801ae4e55d40641b89cb6e80b4eb52, type: 2}
+  - {fileID: 11400000, guid: 61bfdd6fc7415be4abe2832f1221f5c0, type: 2}
+  - {fileID: 11400000, guid: dd0f7c32a2840d14890f1db2c62867f5, type: 2}
+  - {fileID: 11400000, guid: ba2b632d87c6f1446ad026f78740837a, type: 2}

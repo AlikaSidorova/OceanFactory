@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57e48684574c4dae23e06328ed31b, type: 3}
+  m_Name: LevelProgression
+  m_EditorClassIdentifier: Assembly-CSharp::OceanFactory.Data.LevelProgressionSO
+  levels:
+  - {fileID: 11400000, guid: 2e12791698044f747ade6206af99f885, type: 2}
+  - {fileID: 11400000, guid: 6a452a5e628bb1a4691a1f41ffb54077, type: 2}
+  - {fileID: 11400000, guid: 82ccfefd00fbe2a4c99d61c6dde4d2a8, type: 2}
+  - {fileID: 11400000, guid: 8227cfb4b4a6e364cb65354cf65fb602, type: 2}
+  - {fileID: 11400000, guid: b3ff8c5921d58944f85c7d8b441ea62a, type: 2}
+  - {fileID: 11400000, guid: 9f138324802170748a7104277338bfd0, type: 2}
+  - {fileID: 11400000, guid: 74b2d33b811ff9246b974ed90130a5a6, type: 2}
+  - {fileID: 11400000, guid: a831c6bf9a0c804498105fd9fa8a1f62, type: 2}
+  - {fileID: 11400000, guid: c6d9ee1275aeef34ca6ca6fc05cef61f, type: 2}
+  - {fileID: 11400000, guid: 49d7d3a75ed7ced4185154860c8972be, type: 2}
